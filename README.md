@@ -1,2 +1,1 @@
-# ExcelProject
-Utilizing Pivot Tables and Creating a Dashboard in Excel 
+This project involves analyzing a dataset using Excel's pivot table feature. The data has been be organized and summarized using pivot tables to allow for easy analysis of key metrics. This project also involved creating a dashboard that visually presents the key metrics and trends identified in the data. The dashboard uses charts, graphs, and other visual aids to provide insights and highlight trends in the data. These visualization tools using Excel can be used in a variety of settings, such as business, finance, or research, to help stakeholders make informed decisions based on the data presented in the dashboard.
